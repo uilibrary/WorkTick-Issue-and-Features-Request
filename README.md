@@ -7,3 +7,8 @@
 # Version 1.1.0 - 31-03-2022
 
 -  Bugs fixed
+
+# Version 1.2
+
+-  Bugs fixed
+
